@@ -118,28 +118,3 @@ h6 {
 }
 
 
-
-
-/* !Радуга */
-.raibow__color:nth-child(1) {
-  color: red;
-}
-.raibow__color:nth-child(2) {
-  color: orange;
-}
-.raibow__color:nth-child(3) {
-  color: yellow;
-}
-.raibow__color:nth-child(4) {
-  color: #0f0;
-}
-.raibow__color:nth-child(5) {
-  color: rgb(7, 185, 245);
-}
-.raibow__color:nth-child(6) {
-  color: blue;
-}
-.raibow__color:nth-child(7) {
-  color: violet;
-}
-/* !Радуга */
