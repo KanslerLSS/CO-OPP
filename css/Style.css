@@ -120,7 +120,7 @@ h6 {
 
 
 
-/* Радуга */
+/* !Радуга */
 .raibow__color:nth-child(1) {
   color: red;
 }
@@ -142,4 +142,4 @@ h6 {
 .raibow__color:nth-child(7) {
   color: violet;
 }
-/* Радуга */
+/* !Радуга */
