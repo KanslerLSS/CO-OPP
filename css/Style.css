@@ -90,3 +90,10 @@ h6 {
   font-size: inherit;
   font-weight: 400;
 }
+
+.green {
+  color: #0f0;
+}
+.dark-green {
+  color: green;
+}
