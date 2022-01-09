@@ -90,31 +90,3 @@ h6 {
   font-size: inherit;
   font-weight: 400;
 }
-
-.green {
-  color: #0f0;
-}
-.dark-green {
-  color: green;
-}
-.text {
-  text-transform: uppercase;
-}
-.text-1 {
-  font-family: 'Times New Roman', Times, serif;
-  font-weight: bold;
-}
-.text-2 {
-  font-size: 9px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: 300;
-}
-.text-3 {
-  font-family: 'Courier New', Courier, monospace;
-  font-weight: bolder;
-}
-.font {
-  margin-bottom: 150px;
-}
-
-
